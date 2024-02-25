@@ -7,6 +7,7 @@ export const Section = ({ children }: { children: React.ReactNode }) => {
         className="container flex flex-col items-center justify-center"
         style={{
           height: "100vh",
+          width: "100%",
         }}
       >
         {children}

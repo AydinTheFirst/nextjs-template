@@ -1,5 +1,5 @@
 import { Section } from "@/components/Section";
-import React from "react";
+import { Card, CardBody, CardFooter } from "@/components";
 
 const Home = () => {
   return (
